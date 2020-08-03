@@ -16,4 +16,6 @@ $ yarn start
 # generate static project
 $ yarn generate
 ```
+
+## 移动端nuxt 服务端渲染结构
  
